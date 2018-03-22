@@ -15,6 +15,12 @@ margin:auto;
 padding:10px;
 overflow:hidden;
 }
+.text{
+text-align:center;
+}
+.text1{
+font-size:18px;
+}
 
 ul{
 margin:0;
@@ -31,7 +37,7 @@ color:#ffffff;
 header{
 background:#35424a;
 color:#ffffff;
-padding-top:30px;
+padding-top:33px;
 min-height:70px;
 border-bottom:#e8491d 4px solid;
 }
